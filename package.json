@@ -1,0 +1,8 @@
+{
+  "name": "zx-command",
+  "version": "1.0.0",
+  "description": "zx-command",
+  "main": "index.js",
+  "author": "yetching",
+  "license": "MIT"
+}
